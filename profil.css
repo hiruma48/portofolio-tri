@@ -1,0 +1,25 @@
+h1{
+    color: yellow;
+}
+h2{
+    background-color: blueviolet;
+    color: red;
+}
+.sertifikat{
+    height: 200px; 
+    width: 300px;
+}
+body{
+    background-image:url("./img/web-developments.webp");
+    background-size:100% 400px;
+    background-repeat:no-repeat;
+    background-attachment:local;
+    
+}
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #45a1ff;
+    color: #fff;
+  }
